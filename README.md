@@ -36,7 +36,6 @@ Pairs-Trading-Backtester/
 ├── Report.pdf
 └── README.md
 ```
-```
 ## Quick Start
 
 1. **Install dependencies:**
